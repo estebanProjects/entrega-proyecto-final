@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Escuadra",
+    "descripcion": "Esta escuadra es hermosa",
+    "precio": 123.45,
+    "codigo": "abCdek",
+    "stock": 20,
+    "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1,
+    "timeStamp": "2021-11-13T13:39:37.276Z"
+  },
+  {
+    "nombre": "Globo Terraqueo",
+    "descripcion": "Este producto es muy útil",
+    "precio": 225.75,
+    "codigo": "DlaKa",
+    "stock": 15,
+    "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 2,
+    "timeStamp": "2021-11-13T13:29:14.276Z"
+  }
+]
